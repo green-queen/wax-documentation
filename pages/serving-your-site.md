@@ -25,7 +25,7 @@ There are many options. Our demo uses GitHub pages. You can use any hosting serv
 
 ### Hosting on GitHub Pages
 If you have a wax site repository that you want to publish to GitHub pages:
-1. Push your changes to GitHub.com. You can follow [this documentation's instructions for pushing your changes to GitHub.com](https://kam535.github.io/wax-documentation/pages/pushing-your-changes.html)
+1. Push your changes to GitHub.com. You can follow [this documentation's instructions for pushing your changes to GitHub.com](https://green-queen.github.io/wax-documentation/pages/pushing-your-changes.html)
 2. Open your repository on GitHub.com.
 3. Go to **Settings** or click the gear icon. Click on **Pages** on the left sidebar.
 4. Under **Source**, select "Deploy from a branch". Then select the “main” branch and “root” folder. Click “Save”.
@@ -39,4 +39,4 @@ If you have a wax site repository that you want to publish to GitHub pages:
 2. Replace the url field with your own url, e.g., https://your-username.github.io. Omit the period at the end.
 3. Replace the baseurl with your own baseurl, which will be the same as your repository name, e.g., /your-repo-name.
 
-<img src="https://kam535.github.io/wax-documentation/images/site-screenshot.png" alt="screenshot of the Wax demo site homepage">
+<img src="https://green-queen.github.io/wax-documentation/images/site-screenshot.png" alt="screenshot of the Wax demo site homepage">
