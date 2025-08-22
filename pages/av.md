@@ -20,6 +20,6 @@ There are two things you must do to create an audio/video item:
 Your audio/video objects should then appear just like a normal image or IIIF object on the browse page, map, etc.
 
 ## The iiif-audio format
-The iiif-audio format exists to support the IIIF Cookbook recipe, Audio Presentation with Accompanying Image, which displays an image while audio plays in a Clover viewer. If you'd like to create this type of manifest, please see the [IIIF Cookbook recipe](https://iiif.io/api/cookbook/recipe/0014-accompanyingcanvas/). [Object 24 of the sample site](https://kam535.github.io/waxbuilder/medievalfragments/obj24/) is a good example of this type of manifest.
+The iiif-audio format exists to support the IIIF Cookbook recipe, Audio Presentation with Accompanying Image, which displays an image while audio plays in a Clover viewer. If you'd like to create this type of manifest, please see the [IIIF Cookbook recipe](https://iiif.io/api/cookbook/recipe/0014-accompanyingcanvas/). [Object 24 of the sample site](https://green-queen.github.io/waxbuilder/medievalfragments/obj24/) is a good example of this type of manifest.
 
 **This feature is the most "in-progress" feature of WaxBuilder.** I am currently in the process of simplifying the paths to the players, as well as making it so that you won't have to constantly edit things in the individual page and CSV file post-wax tasks in order to get these layouts to work. Stay tuned for updates.
