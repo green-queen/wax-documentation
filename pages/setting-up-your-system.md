@@ -23,7 +23,7 @@ Since Wax uses your local machine to produce all of the static site pages and el
 * [Ghostscript](https://www.ghostscript.com/)
 * [Git](https://git-scm.com/)
 * [libvips](https://libvips.github.io/libvips/)
-* [GitHub Desktop](https://desktop.github.com/download/)
+* [GitHub Desktop](https://desktop.github.com/download/) (highly suggested)
 * [Jekyll](https://jekyllrb.com/) (highly suggested)
 
 <img src="https://green-queen.github.io/wax-documentation/images/depen.png" alt="logos for GitHub Desktop, Git, Ruby, Image Magick, GhotScript, and Homebrew and a lightning bolt icon" class="center">
